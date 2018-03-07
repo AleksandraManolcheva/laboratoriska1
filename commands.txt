@@ -1,0 +1,1 @@
+mkdir , cd, git init, notepad *.txt, git add , git commit -m bla bla, git config --global, git status, git remote add , git remote rm , git clone path, git push -u rep branch, git pull, git reset --soft HEAD^,git reset --hard, git branch, git checkout, git branch , ls , git merge, git push -u rep branch,echo blabla  > *.txt 
