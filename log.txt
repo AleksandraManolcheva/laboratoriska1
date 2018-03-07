@@ -1,0 +1,6 @@
+$ git log
+commit bd44d65c9062f6915469bc8da5670bc30365a33f (HEAD -> logging, master)
+Author: unknown <aleksandra.manolcheva@students.finki.ukim.mk>
+Date:   Wed Mar 7 17:09:16 2018 +0100
+
+    Initial commit
